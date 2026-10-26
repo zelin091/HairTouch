@@ -1,18 +1,17 @@
 [
   {
-    "Name": "UI Gallery",
-    "InternalName": "com.example.ui-gallery",
-    "Version": "1.0.0",
-    "Author": "AnomalyNTE",
-    "Punchline": "逐一演示全部 Anomaly UI 控件 / Showcases every Anomaly UI widget",
-    "Description": "Anomaly 插件模板附带的示例插件。在一个窗口里演示 anomaly.ui ABI v1 暴露的各种交互控件：文本、按钮、复选框、滑块、颜色、输入框、表格、过滤、弹窗、菜单等。适合作为编写自己插件的起点。",
+    "Name": "HairTouch",
+    "InternalName": "com.akane.hair-touch",
+    "Version": "0.3.0",
+    "Author": "akane",
+    "Punchline": "鼠标划过角色头发会被拨动，移到胸口可以推动。支持实时调参与保存。",
+    "Description": "纯物理手感（弹簧 + 阻尼 + 冲量）：把鼠标当作手指，划过头发会被拨开并自然回弹；在胸口位置可以推挤。按 U 开关，面板里可实时调整判定范围、力度、回弹速度等，调好后保存为默认。注意：本插件通过运行时改写骨骼实现，仅做外观互动，不改变任何游戏数值。",
     "Games": ["nte"],
     "ApiMajor": 1,
-    "Tags": ["template", "ui", "示例", "widgets"],
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template",
-    "IconUrl": "https://raw.githubusercontent.com/AnomalyNTE/Anomaly-Plugin-Template/main/assets/icon.png",
-    "DownloadLinkInstall": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template/releases/download/v1.0.0/UiGallery.zip",
-    "DownloadLinkUpdate": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template/releases/download/v1.0.0/UiGallery.zip"
+    "Tags": ["interaction", "physics", "utility"],
+    "RepoUrl": "https://github.com/你的用户名/HairTouch",
+    "DownloadLinkInstall": "https://github.com/你的用户名/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
+    "DownloadLinkUpdate": "https://github.com/你的用户名/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
+    "AcceptsFeedback": true
   }
 ]
