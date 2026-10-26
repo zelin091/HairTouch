@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-CN",
+  "messages": {
+    "window.title": "Anomaly UI 控件画廊",
+    "greeting": "欢迎使用 Anomaly 插件模板。下面逐一演示各种 UI 控件。"
+  }
+}

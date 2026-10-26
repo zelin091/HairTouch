@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "UI Gallery",
+    "InternalName": "com.example.ui-gallery",
+    "Version": "1.0.0",
+    "Author": "AnomalyNTE",
+    "Punchline": "逐一演示全部 Anomaly UI 控件 / Showcases every Anomaly UI widget",
+    "Description": "Anomaly 插件模板附带的示例插件。在一个窗口里演示 anomaly.ui ABI v1 暴露的各种交互控件：文本、按钮、复选框、滑块、颜色、输入框、表格、过滤、弹窗、菜单等。适合作为编写自己插件的起点。",
+    "Games": ["nte"],
+    "ApiMajor": 1,
+    "Tags": ["template", "ui", "示例", "widgets"],
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template",
+    "IconUrl": "https://raw.githubusercontent.com/AnomalyNTE/Anomaly-Plugin-Template/main/assets/icon.png",
+    "DownloadLinkInstall": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template/releases/download/v1.0.0/UiGallery.zip",
+    "DownloadLinkUpdate": "https://github.com/AnomalyNTE/Anomaly-Plugin-Template/releases/download/v1.0.0/UiGallery.zip"
+  }
+]
