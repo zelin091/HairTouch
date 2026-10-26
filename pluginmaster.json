@@ -9,9 +9,9 @@
     "Games": ["nte"],
     "ApiMajor": 1,
     "Tags": ["interaction", "physics", "utility"],
-    "RepoUrl": "https://github.com/你的用户名/HairTouch",
-    "DownloadLinkInstall": "https://github.com/你的用户名/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
-    "DownloadLinkUpdate": "https://github.com/你的用户名/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
+    "RepoUrl": "https://github.com/zelin091/HairTouch",
+    "DownloadLinkInstall": "https://github.com/zelin091/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
+    "DownloadLinkUpdate": "https://github.com/zelin091/HairTouch/releases/download/v0.3.0/com.akane.hair-touch-0.3.0.zip",
     "AcceptsFeedback": true
   }
 ]
